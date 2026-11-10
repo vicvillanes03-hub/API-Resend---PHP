@@ -1,0 +1,10 @@
+# A chave nunca pode ir para o repositorio
+config.php
+
+# Mas o modelo sem a chave, sim:
+!config.exemplo.php
+
+# O log tem e-mails de pessoas
+envios.log
+
+/vendor/

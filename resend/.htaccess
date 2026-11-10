@@ -1,0 +1,3 @@
+<FilesMatch "^(config\.php|envios\.log)$">
+    Require all denied
+</FilesMatch>
